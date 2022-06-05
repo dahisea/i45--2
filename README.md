@@ -4,7 +4,7 @@
 
 <h1 align="center">
 
-BiliBiliTool
+BiliBiliTo
 
 </h1>
 
